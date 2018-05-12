@@ -1,0 +1,24 @@
+_repo: Cheshire_42887
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42887-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kelsey, Charles E.
+    gutenberg_agent_id: '41912'
+    url: http://www.gutenberg.org/2009/agents/41912
+description: ''
+gutenberg_issued: '2013-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cheshire (England) -- History'
+- !lcc 'DA'
+title: Cheshire
+url: http://www.gutenberg.org/ebooks/42887
